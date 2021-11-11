@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/login-screen-react/static/css/main.b196d303.chunk.css",
-    "main.js": "/login-screen-react/static/js/main.4e8b297e.chunk.js",
-    "main.js.map": "/login-screen-react/static/js/main.4e8b297e.chunk.js.map",
+    "main.js": "/login-screen-react/static/js/main.8e9155dc.chunk.js",
+    "main.js.map": "/login-screen-react/static/js/main.8e9155dc.chunk.js.map",
     "runtime-main.js": "/login-screen-react/static/js/runtime-main.d5218622.js",
     "runtime-main.js.map": "/login-screen-react/static/js/runtime-main.d5218622.js.map",
     "static/js/2.620729a6.chunk.js": "/login-screen-react/static/js/2.620729a6.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.d5218622.js",
     "static/js/2.620729a6.chunk.js",
     "static/css/main.b196d303.chunk.css",
-    "static/js/main.4e8b297e.chunk.js"
+    "static/js/main.8e9155dc.chunk.js"
   ]
 }
